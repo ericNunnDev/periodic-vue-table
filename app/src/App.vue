@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    {{msg}}
+    <marquee>{{msg}}</marquee>
   </div>
 </template>
 
